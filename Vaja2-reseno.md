@@ -2,6 +2,7 @@
 
 ## Scena 1: Uvodna scena – Vstop v elektrarno
 ![Scena 1]
+<img width="2160" height="2160" alt="YW1JoQMwL5OXMkzCSqgpf_ac522e5f8056447d970bd6b33183b576" src="https://github.com/user-attachments/assets/6f920209-b681-43d0-83af-83a7cb1f86ca" />
 
 **Opis:**
 Uporabnik stoji v virtualni hali stare elektrarne. Okoli njega so velike kovinske cevi, jeklene konstrukcije in industrijski stroji. Pred uporabnikom lebdi informacijski panel z gumbom "Začni ogled". VR kontroler ali kazalec je viden, da se uporabnik orientira v prostoru.
